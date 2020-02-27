@@ -4,9 +4,9 @@
 
 ## thread pool
 
-- newSingleThreadExecutor: only one worker in thread pool
-- newFixedThreadPool: fixed number of workers in thread pool
-- newCachedThreadPool: no number limit of workers in thread pool
+- `newSingleThreadExecutor`: only one worker in thread pool
+- `newFixedThreadPool`: fixed number of workers in thread pool
+- `newCachedThreadPool`: no number limit of workers in thread pool
 
 ### source code
 
@@ -15,8 +15,8 @@
 
 ## scheduled thread pool
 
-- newSingleThreadScheduledExecutor: only one worker in thread pool
-- newScheduledThreadPool: fixed number of workers in thread pool
+- `newSingleThreadScheduledExecutor`: only one worker in thread pool
+- `newScheduledThreadPool`: fixed number of workers in thread pool
 
 ### api
 
