@@ -2,17 +2,17 @@
 
 ## runnable
 
-- [Main1](./src/main/java/gxg/Main1)
+- [Main1](./src/main/java/gxg/Main1.java)
 
 ## thread
 
-- [Main2](./src/main/java/gxg/Main2)
-- [Main3](./src/main/java/gxg/Main3)
+- [Main2](./src/main/java/gxg/Main2.java)
+- [Main3](./src/main/java/gxg/Main3.java)
 
 ## executors
 
-- [Main4](./src/main/java/gxg/Main4)
-- [Main5](./src/main/java/gxg/Main5)
+- [Main4](./src/main/java/gxg/Main4.java)
+- [Main5](./src/main/java/gxg/Main5.java)
 
 ## reference
 
