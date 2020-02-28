@@ -29,6 +29,16 @@ solve(problem):
         return combined results
 ```
 
+## pros
+
+- work stealing implementation of fork-join can achieve the optimal time complexity
+
+## cons
+
+- fork-join can not support directed acyclic graph such as
+
+<div align=center><img src="./2.png" /></div> 
+
 ## reference
 
 - [Fork–join model](https://en.wikipedia.org/wiki/Fork%E2%80%93join_model)
