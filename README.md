@@ -1,5 +1,6 @@
 # fork-join
 
-- [java: concurrency](./1)
-- [java: thread pool](./2)
-- [java fork-join](./3)
+- java
+  - [concurrency](./1)
+  - [thread pool](./2)
+  - [fork-join](./3)
