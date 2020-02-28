@@ -16,4 +16,12 @@ Assume that
 
 [Blumofe and Leiserson](http://supertech.csail.mit.edu/papers/steal.pdf) proves that the optimal time complexity is <img src="https://render.githubusercontent.com/render/math?math=T_1/P%2BO(T_\infinity)" />.
 
+### simple proof
+
+Assume that every subtask one unit time, then the optimal time complexity is <img src="https://render.githubusercontent.com/render/math?math=W/P%2BO(D)" /> with
+
+- <img src="https://render.githubusercontent.com/render/math?math=W" /> is the number of tasks
+- <img src="https://render.githubusercontent.com/render/math?math=D" /> is the depth of directed acyclic graph
+
+
 ## work stealing
