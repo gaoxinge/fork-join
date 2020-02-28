@@ -29,8 +29,13 @@ We assume that <img src="https://render.githubusercontent.com/render/math?math=W
 
 ## work stealing
 
+<div align=center><img src="./2.png" /></div>
+
+[Blumofe and Leiserson](http://supertech.csail.mit.edu/papers/steal.pdf) proves that work stealing can achieve the optimal time complexity.
+
 ## reference
 
 - [Work stealing](https://en.wikipedia.org/wiki/Work_stealing)
-- []()
+- [Scheduling Multithreaded Computations by Work Stealing](http://supertech.csail.mit.edu/papers/steal.pdf)
+- [Chapter 10 Work-Stealing](http://www.cs.tau.ac.il/~shanir/multiprocessor-synch-2003/steal/notes/steal.pdf)
 - [并行算法科普向 系列之一：计算模型，调度器，和其它](https://zhuanlan.zhihu.com/p/90172780)
