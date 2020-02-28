@@ -6,3 +6,11 @@ Tasks can be decomposited into subtasks, and subtasks are connected with depende
 
 <div align=center><img src="./1.png" /></div>
 
+## time complexity
+
+Assume that
+
+- subtasks can be executed in <img src="https://render.githubusercontent.com/render/math?math=T_1" /> time in sequential situation
+- subtasks can be executed in <img src="https://render.githubusercontent.com/render/math?math=T_\infinity" /> time when there are infinite processes
+- <img src="https://render.githubusercontent.com/render/math?math=P" /> is the actual number of processes
+
