@@ -1,4 +1,4 @@
-# java thread pool
+# thread pool
 
 ![](./1.png)
 

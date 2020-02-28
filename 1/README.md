@@ -1,4 +1,4 @@
-# java concurrency
+# concurrency
 
 ## runnable
 
