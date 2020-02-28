@@ -1,3 +1,3 @@
 # fork-join
 
-![](./1.png)
+<div align=center><img src="./1.png" /></div>
