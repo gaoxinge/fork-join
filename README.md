@@ -6,7 +6,7 @@
   - [fork-join](./java/3)
 - work stealing
   - [introduction](./work%20stealing/1)
-- fork-join
+  - [fork-join](./work%20stealing/2)
 - doug lea
   - [introduction](./doug%20lea/1)
   - [a java fork/join framework]()
