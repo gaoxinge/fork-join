@@ -8,6 +8,6 @@
   - [introduction](./work%20stealing/1)
 - fork-join
 - doug lea
-  - [introduction](./1)
+  - [introduction](./doug%20lea/1)
   - [a java fork/join framework]()
   - [java fork-join standard library]()
