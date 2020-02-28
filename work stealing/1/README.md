@@ -23,5 +23,6 @@ Assume that every subtask one unit time, then the optimal time complexity is <im
 - <img src="https://render.githubusercontent.com/render/math?math=W" /> is the number of tasks
 - <img src="https://render.githubusercontent.com/render/math?math=D" /> is the depth of directed acyclic graph
 
+We assume that <img src="https://render.githubusercontent.com/render/math?math=W1,\cdots,W_D" /> are the number of tasks in each step of depth. So we have <img src="https://render.githubusercontent.com/render/math?math=T=\sum_{i=1}^D(W_i/P%2B1)=W/p%2BD" />.
 
 ## work stealing
