@@ -1,12 +1,13 @@
 # fork-join
 
 - java
-  - [concurrency](./1)
-  - [thread pool](./2)
-  - [fork-join](./3)
+  - [concurrency](./java/1)
+  - [thread pool](./java/2)
+  - [fork-join](./java/3)
 - work stealing
+  - [introduction](./work%20stealing/1)
 - fork-join
-- Doug Lea
-  - [introduction](./4)
+- doug lea
+  - [introduction](./1)
   - [a java fork/join framework]()
-  - [java fork/join standard library]()
+  - [java fork-join standard library]()
