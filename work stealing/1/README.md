@@ -25,6 +25,6 @@ Assume that every subtask one unit time, then the optimal time complexity is <im
 
 We assume that <img src="https://render.githubusercontent.com/render/math?math=W1,\cdots,W_D" /> are the number of tasks in each step of depth. So we have 
 
-<div align=center><img src="https://render.githubusercontent.com/render/math?math=T=\sum_{i=1}^D(W_i/P%2B1)=W/p%2BD" /></div>
+<div align=center><img src="https://render.githubusercontent.com/render/math?math=T=\sum_{i=1}^D(W_i/P%2B1)=W/P%2BD" /></div>
 
 ## work stealing
