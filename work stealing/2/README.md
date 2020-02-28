@@ -9,7 +9,7 @@
 - binary forking (work stealing)
   - child stealing
   - continuation stealing
-- n-ary forking (no working stealing)
+- n-ary forking (no work stealing)
 
 ### 2
 
