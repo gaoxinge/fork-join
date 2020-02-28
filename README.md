@@ -4,5 +4,6 @@
   - [concurrency](./1)
   - [thread pool](./2)
   - [fork-join](./3)
+- work stealing
 - Doug Lea
   - [introduction](./4)
