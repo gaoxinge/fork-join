@@ -28,3 +28,9 @@ We assume that <img src="https://render.githubusercontent.com/render/math?math=W
 <div align=center><img src="https://render.githubusercontent.com/render/math?math=T=\sum_{i=1}^D(W_i/P%2B1)=W/P%2BD" /></div>
 
 ## work stealing
+
+## reference
+
+- [Work stealing](https://en.wikipedia.org/wiki/Work_stealing)
+- []()
+- [并行算法科普向 系列之一：计算模型，调度器，和其它](https://zhuanlan.zhihu.com/p/90172780)
