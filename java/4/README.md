@@ -2,6 +2,7 @@
 
 ## parallel stream
 
+- fork-join pool + map/reduce
 - [Parallelism](https://docs.oracle.com/javase/tutorial/collections/streams/parallelism.html)
 
 ### thread pool
