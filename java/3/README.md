@@ -2,8 +2,8 @@
 
 ## thread pool
 
-- `newWorkStealingPool(int parallelism)``
-- `newWorkStealingPool()``
+- `newWorkStealingPool(int parallelism)`
+- `newWorkStealingPool()`
 
 ## fork-join pool
 
